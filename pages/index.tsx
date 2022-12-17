@@ -7,7 +7,7 @@ const Home: NextPage = () => {
   return (
     <div className="">
       <Head>
-        <title>Medium Blob</title>
+        <title>Medium Blog</title>
       </Head>
 
     
